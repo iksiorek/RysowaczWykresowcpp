@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Repozytorium\\JezykiProgramowania\\c\u002B\u002B\\RysowaczWykresow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{138E7963-F357-49ED-8553-8FE1CBA760C9}|RysowaczWykresow\\RysowaczWykresow.vcxproj|E:\\Repozytorium\\JezykiProgramowania\\c\u002B\u002B\\RysowaczWykresow\\RysowaczWykresow\\RysowaczWykresow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{138E7963-F357-49ED-8553-8FE1CBA760C9}|RysowaczWykresow\\RysowaczWykresow.vcxproj|solutionrelative:RysowaczWykresow\\RysowaczWykresow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program\\visualStudio\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\throw_bad_alloc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "throw_bad_alloc.cpp",
+              "DocumentMoniker": "D:\\Program\\visualStudio\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
+              "ToolTip": "D:\\Program\\visualStudio\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T23:31:41.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RysowaczWykresow.cpp",
+              "DocumentMoniker": "E:\\Repozytorium\\JezykiProgramowania\\c\u002B\u002B\\RysowaczWykresow\\RysowaczWykresow\\RysowaczWykresow.cpp",
+              "RelativeDocumentMoniker": "RysowaczWykresow\\RysowaczWykresow.cpp",
+              "ToolTip": "E:\\Repozytorium\\JezykiProgramowania\\c\u002B\u002B\\RysowaczWykresow\\RysowaczWykresow\\RysowaczWykresow.cpp",
+              "RelativeToolTip": "RysowaczWykresow\\RysowaczWykresow.cpp",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAEwH0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-10T22:04:44.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

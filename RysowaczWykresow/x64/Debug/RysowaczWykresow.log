@@ -1,0 +1,21 @@
+﻿  RysowaczWykresow.cpp
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(118,18): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(119,18): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(138,23): warning C4244: "argument": konwersja z "double" do "const unsigned __int64", możliwa utrata danych
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(139,18): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(142,44): warning C4244: "argument": konwersja z "double" do "const unsigned __int64", możliwa utrata danych
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(143,44): warning C4244: "argument": konwersja z "double" do "const unsigned __int64", możliwa utrata danych
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(147,26): warning C4244: "argument": konwersja z "double" do "const unsigned __int64", możliwa utrata danych
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(148,18): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(150,47): warning C4244: "argument": konwersja z "double" do "const unsigned __int64", możliwa utrata danych
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(151,47): warning C4244: "argument": konwersja z "double" do "const unsigned __int64", możliwa utrata danych
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(157,19): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(159,38): warning C4244: "argument": konwersja z "double" do "_Ty", możliwa utrata danych
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(159,38): warning C4244:         with
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(159,38): warning C4244:         [
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(159,38): warning C4244:             _Ty=int
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(159,38): warning C4244:         ]
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(160,17): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(169,18): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\RysowaczWykresow\RysowaczWykresow.cpp(170,18): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  RysowaczWykresow.vcxproj -> E:\Repozytorium\JezykiProgramowania\c++\RysowaczWykresow\x64\Debug\RysowaczWykresow.exe
